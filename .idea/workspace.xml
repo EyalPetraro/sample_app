@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a0f835-6541-433f-8cde-955727bc77e7" name="Default" comment="Finish layout and routes">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/users.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/users.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_rails_default.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/helpers/application_helper_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/site_layout_test.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
+    <list default="true" id="a5a0f835-6541-433f-8cde-955727bc77e7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
     </list>
     <list id="0f6ee351-3321-485f-9374-0f5fd3d4bf8c" name="NOT_TO_COMMIT" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -589,7 +566,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514368191180</updated>
-      <workItem from="1514368192409" duration="30146000" />
+      <workItem from="1514368192409" duration="30175000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Improve the README&quot;">
       <created>1514368618346</created>
@@ -661,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514477299034</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finish layout and routes">
+      <created>1514664860592</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514664860592</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -697,7 +681,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30146000" />
+    <option name="totallyTimeSpent" value="30175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,7 +778,8 @@
     <MESSAGE value="Complete advanced setup" />
     <MESSAGE value="Add a full_title helper" />
     <MESSAGE value="Add a full_title helper - part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a full_title helper - part 2" />
+    <MESSAGE value="Finish layout and routes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish layout and routes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
