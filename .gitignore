@@ -22,7 +22,5 @@
 
 .byebug_history
 
-.idea/workspace.xml
-
 # Ignore Spring files.
 /spring/*.pid
